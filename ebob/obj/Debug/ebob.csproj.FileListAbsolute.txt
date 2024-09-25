@@ -1,0 +1,7 @@
+C:\Users\cigo_\source\repos\ebob\ebob\bin\Debug\ebob.exe.config
+C:\Users\cigo_\source\repos\ebob\ebob\bin\Debug\ebob.exe
+C:\Users\cigo_\source\repos\ebob\ebob\bin\Debug\ebob.pdb
+C:\Users\cigo_\source\repos\ebob\ebob\obj\Debug\ebob.csproj.AssemblyReference.cache
+C:\Users\cigo_\source\repos\ebob\ebob\obj\Debug\ebob.csproj.CoreCompileInputs.cache
+C:\Users\cigo_\source\repos\ebob\ebob\obj\Debug\ebob.exe
+C:\Users\cigo_\source\repos\ebob\ebob\obj\Debug\ebob.pdb
